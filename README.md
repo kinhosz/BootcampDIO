@@ -25,6 +25,6 @@ Primeiro escolha qual dos projetos deseja executar, em seguida entre no diretór
 
 ## 📜 Breve descrição dos projetos
 
-# Series
+### Series
 
 Séries é apenas uma simples aplicação voltada para mostrar o domínio sobre `interface` e `abstract class` em `dotnet cshap`. A aplicação é apenas um gerenciador `CRUD` com um simples menu em `ASCII` que roda na linda de comando.
