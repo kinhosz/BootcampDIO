@@ -1,0 +1,16 @@
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\obj\Debug\net5.0\Series.csproj.AssemblyReference.cache
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\bin\Debug\net5.0\Series.exe
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\bin\Debug\net5.0\Series.deps.json
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\bin\Debug\net5.0\Series.runtimeconfig.json
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\bin\Debug\net5.0\Series.dll
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\bin\Debug\net5.0\ref\Series.dll
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\bin\Debug\net5.0\Series.pdb
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\obj\Debug\net5.0\Series.dll
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\obj\Debug\net5.0\ref\Series.dll
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\obj\Debug\net5.0\Series.pdb
+C:\Users\jcsc\Desktop\Projects\Bootcamp\Series\obj\Debug\net5.0\Series.genruntimeconfig.cache
